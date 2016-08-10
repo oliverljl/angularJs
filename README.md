@@ -1,7 +1,7 @@
-Dashboard app
+AngularJs app
 =============
 
-Dashboard app repo includes the source code for the dashboard application created for UI-101 training. This application will introduce developers to AngularJS and how to build a complete web application from start to finish. This will give future developers hands-on experience about real world front-end development process and how to manage it. In addition, several topics in front end technology will be covered including Git, Npm, Bower, Grunt, Gulp, Unit Testing, Debugging, and Performance inspection. Once completed, the dashboard application should have multiple pages and functionalities as a SPA (Single Page Application). In order to build and run the application, please follow through the steps listed as below
+This application will introduce developers to AngularJS and how to build a complete web application from start to finish. In addition, several topics in front end technology will be covered including Git, Npm, Bower, Grunt, Gulp, Unit Testing, Debugging, and Performance inspection. Once completed, the AngularJs application should have multiple pages and functionalities as a SPA (Single Page Application). In order to build and run the application, please follow through the steps listed as below
 
 If you've never used Node or npm before, you'll need to install Node.
 If you use homebrew, do:
